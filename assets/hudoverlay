@@ -1,0 +1,10 @@
+Panel.Panel1 {
+    Position = (360, 550);
+    Size = (220, 50);
+
+    Renderer {
+        BackgroundColor = white;
+        BorderColor = black;
+        TextureBackground = None;
+    }
+}
